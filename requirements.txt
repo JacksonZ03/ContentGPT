@@ -2,4 +2,4 @@ langchain
 openai
 pinecone-client
 streamlit
-dotenv
+python-dotenv
